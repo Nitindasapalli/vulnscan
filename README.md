@@ -34,10 +34,10 @@ pip install -r requirements.txt
 3. Ensure nmap is installed on your system:
 
 sudo apt install nmap  # Ubuntu/Debian
-# or
+or
 brew install nmap      # macOS
 
-Usage
+# Usage
 Run a scan on localhost:
 
 python -m vulnscan.cli 127.0.0.1 -o reports
@@ -52,7 +52,7 @@ View the Markdown report:
 
 cat reports/scan_summary.md
 
-How It Works
+# How It Works
 Overview Diagram
 
 [ Target Host ] 
