@@ -85,7 +85,8 @@ Step-by-step:
 
 6. Terminal summary table shows hosts, open ports, and matched vulnerabilities for a quick overview.
 
-# OutPut ScreenShot
+# Output ScreenShot
 
 <img width="891" height="630" alt="Screenshot 2025-09-27 at 5 20 58 PM" src="https://github.com/user-attachments/assets/4bfbe705-6d39-46a0-85c6-5eda1c8fca24" />
+
 <img width="894" height="631" alt="Screenshot 2025-09-27 at 5 20 16 PM" src="https://github.com/user-attachments/assets/b77323af-a8d8-4f7e-a3ab-3182418f6079" />
